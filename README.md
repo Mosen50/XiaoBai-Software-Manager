@@ -8,7 +8,7 @@
 
 ## 下载
 
-**无需安装 Python**：到 [Releases](https://github.com/wangmaosen50/XiaoBai-Software-Manager/releases) 页面下载 `小白软件管家.exe`，双击即可运行。
+**无需安装 Python**：到 [Releases](https://github.com/Mosen50/XiaoBai-Software-Manager/releases) 页面下载 `小白软件管家.exe`，双击即可运行。
 
 ## 核心优势：零第三方依赖
 
