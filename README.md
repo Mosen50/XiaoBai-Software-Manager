@@ -2,6 +2,14 @@
 
 面向 Windows 10 / 11 电脑新手的图形化软件安装工具。全程**无命令行黑窗口**，大字体、大按钮，按分类一键安装、直接下载或跳转官网，帮你避开捆绑软件。
 
+## 界面预览
+
+![小白软件管家 主界面](screenshot.png)
+
+## 下载
+
+**无需安装 Python**：到 [Releases](https://github.com/wangmaosen50/XiaoBai-Software-Manager/releases) 页面下载 `小白软件管家.exe`，双击即可运行。
+
 ## 核心优势：零第三方依赖
 
 本程序**只使用 Python 自带的 `tkinter` 标准库**，不需要 `pip install` 任何东西，也不需要联网装插件。只要电脑上装了**官方版 Python**（从 python.org 下载的安装包默认自带 tkinter），双击即可运行。
@@ -28,6 +36,26 @@
 - 所有 subprocess 调用均隐藏控制台窗口，安装/下载过程后台进行
 - 不显示任何网址文本，网址仅用于按钮跳转或代码内部下载
 - Windows Defender 禁用需二次确认并提示风险，不纳入“一键必装”
+
+## 内置软件
+
+- 安全防护：火绒安全、Windows Defender（禁用）
+- 文件处理：7-Zip、Everything、Dism++
+- 办公套件：WPS Office、LibreOffice
+- 浏览器：Microsoft Edge、Google Chrome
+- 影音播放：PotPlayer
+- 社交通讯：微信、QQ
+- 效率工具：Snipaste、QuickLook
+- 系统工具：Geek Uninstaller、驱动检测
+- 游戏平台：Steam、Epic Games、WeGame、暴雪战网、EA App、Ubisoft Connect
+- 游戏加速器：网易UU、迅游、奇游
+
+## 使用方法
+
+1. 双击运行（exe 版无需安装任何东西）
+2. 找到想要的软件，点击按钮：**一键安装**（自动静默安装，推荐）/ **直接下载**（只下安装包）/ **官网**（跳转官网）
+3. 想一次装齐，点底部 **一键安装所有必装软件**
+4. 驱动异常？点「系统工具」里的 **检测驱动**
 
 ## 环境要求
 

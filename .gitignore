@@ -13,6 +13,7 @@ dist/
 _pyinst/
 _tmp/
 _gh/
+_pil/
 *.zip
 *.log
 
